@@ -153,3 +153,8 @@ Auto-restarts if backend crashes. Keep terminal open or run as a service.
 
 ## License
 MIT
+
+## License
+© 2026 Khushboo Sah. All rights reserved.
+This project is for portfolio and educational purposes only.
+Commercial use requires explicit permission from the author.

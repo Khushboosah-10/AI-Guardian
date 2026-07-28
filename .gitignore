@@ -1,0 +1,10 @@
+.env
+captures/
+__pycache__/
+*.pyc
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+*.jpg
+*.mp4
+incidents.json

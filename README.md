@@ -151,8 +151,6 @@ Auto-restarts if backend crashes. Keep terminal open or run as a service.
 - Integrated Telegram Bot for real-time family alerts with annotated photos, video clips, and AI-generated incident descriptions
 - Built React dashboard with natural language incident search, live camera snapshots, incident history, and analytics
 
-## License
-MIT
 
 ## License
 © 2026 Khushboo Sah. All rights reserved.
